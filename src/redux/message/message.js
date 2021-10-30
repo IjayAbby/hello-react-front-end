@@ -1,4 +1,4 @@
-import axios from 'axios'
+import axios from 'axios';
 
 const FETCH_STARTED = 'hello-rails-react/app/javascript/redux/message/FETCH_STARTED';
 const FETCH_SUCCEDED = 'hello-rails-react/app/javascript/redux/message/FETCH_SUCCEDED';
